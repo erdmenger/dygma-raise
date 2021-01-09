@@ -134,10 +134,10 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 49153,
-      "label": "LEFT CONTROL",
+      "keyCode": 49159,
+      "label": "RIGHT ALT",
       "extraLabel": "OSM",
-      "verbose": "Left Control"
+      "verbose": "AltGr"
     },
     {
       "keyCode": 4,
@@ -289,13 +289,13 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 17451,
-      "label": "1",
-      "extraLabel": "SHIFTTO"
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 0,
@@ -303,9 +303,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
+      "keyCode": 224,
+      "label": "LEFT CTRL",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 51514,
@@ -318,16 +318,17 @@
       "extraLabel": "OSL"
     },
     {
+      "keyCode": 49163,
+      "label": "2",
+      "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 44,
+      "label": "SPACE"
+    },
+    {
       "keyCode": 76,
       "label": "DEL"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
     },
     {
       "keyCode": 230,
@@ -341,8 +342,9 @@
       "verbose": "Right Linux"
     },
     {
-      "keyCode": 101,
-      "label": "MENU"
+      "keyCode": 49163,
+      "label": "2",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 228,
@@ -364,7 +366,7 @@
     12,
     12,
     12,
-    4,
+    3,
     12,
     12,
     12,
@@ -377,13 +379,13 @@
     12,
     12,
     12,
+    3,
     4,
     4,
-    4,
+    5,
+    6,
     3,
     1,
-    5,
-    3,
     5,
     4,
     4,
@@ -413,13 +415,13 @@
     12,
     12,
     4,
+    5,
     4,
     4,
-    4,
+    5,
     1,
+    5,
     1,
-    10,
-    3,
     12,
     12,
     12,
@@ -492,10 +494,10 @@
       "rgb": "rgb(255, 196, 0)"
     },
     {
-      "r": 0,
-      "g": 254,
-      "b": 24,
-      "rgb": "rgb(0, 254, 24)"
+      "r": 130,
+      "g": 252,
+      "b": 0,
+      "rgb": "rgb(130, 252, 0)"
     },
     {
       "r": 255,
@@ -564,10 +566,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 89,
+      "g": 160,
+      "b": 6,
+      "rgb": "rgb(89, 160, 6)"
     },
     {
       "r": 0,
