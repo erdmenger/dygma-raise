@@ -7,7 +7,7 @@ The [Raise](https://dygma.com/) is not my first mechanical keyboard, but my firs
 - [macros](marcos/) contains macro definitions used which need to be exported separately.
 
 ## Starting the BAZECOR Configuration Software
-The [Bazecor](https://dygma.com/pages/bazecor) is not part of this repository itself. You can download it from the [Dygma web site](https://dygma.com/pages/bazecor) or check out the latest [Bazecor on GitHub)(https://github.com/Dygmalab/Bazecor).
+The [Bazecor](https://dygma.com/pages/bazecor) is not part of this repository itself. You can download it from the [Dygma web site](https://dygma.com/pages/bazecor) or check out the latest [Bazecor on GitHub](https://github.com/Dygmalab/Bazecor).
 Make sure your Raise is connected via USB before you start Bacecor.
 
 ### Mac and Windows
