@@ -7,17 +7,18 @@ The [Raise](https://dygma.com/) is not my first mechanical keyboard, but my firs
 - [macros](marcos/) contains macro definitions used which need to be exported separately.
 
 ## Starting the BAZECOR Configuration Software
+The [Bazecor](https://dygma.com/pages/bazecor) is not part of this repository itself. You can download it from the [Dygma web site](https://dygma.com/pages/bazecor) or check out the latest [Bazecor on GitHub)(https://github.com/Dygmalab/Bazecor).
 Make sure your Raise is connected via USB before you start Bacecor.
 
 ### Mac and Windows
 On Windows and Mac all you need to do is to double click the [Bazecor](https://dygma.com/pages/bazecor) after you downloaded it.
 
 ### Linux
-On Linux you might need to check the permissions of your user on the device file. You need to have READ-/WRITE- permissions on that device of course to load configurations from or safe them to your keyboard. On my Linux sysems only `root` has read-/write permission such devices so I need to elevate access to all users `sudo chown o+RW /dev/ttyACM0` or grant access to my user `sudo chown $USER /dev/ttyACM0` where `/dev/ttyACM0` is the device file assigned by my linux system to the keyboard after I plugged it in.
+On Linux you might need to check the permissions of your user on the device file. You need to have READ-/WRITE- permissions on that device of course to load configurations from or safe them to your keyboard. On my Linux systems only `root` has read-/write permission such devices so I need to elevate access to all users `sudo chown o+RW /dev/ttyACM0` or grant access to my user `sudo chown $USER /dev/ttyACM0` where `/dev/ttyACM0` is the device file assigned by my Linux system to the keyboard after I plugged it in.
 To ease my life I created a little shell script to do that for me before start Bazecor. Also I named the shell script `dygma.sh` so I don't have to remember that other name (Bazecor).
 
 # Dygma and the Community
-At the time I'm starting this Journey the main entry point into the world of the awsome DYGMA Raise programable keyboard is the [Dygma Company Website](https://dygma.com).
+At the time I'm starting this Journey the main entry point into the world of the awesome DYGMA Raise programmable keyboard is the [Dygma Company Website](https://dygma.com).
 
 Most of the community communication seems to happen on the [Dygma Lab Reddit community](https://www.reddit.com/r/DygmaLab/).
 
