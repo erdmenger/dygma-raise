@@ -279,14 +279,14 @@
       "verbose": "Left Control"
     },
     {
-      "keyCode": 227,
-      "label": "LEFT LINUX",
-      "verbose": "Left Linux"
-    },
-    {
       "keyCode": 226,
       "label": "LEFT ALT",
       "verbose": "Left Alt"
+    },
+    {
+      "keyCode": 227,
+      "label": "LEFT CMD",
+      "verbose": "Left Cmd"
     },
     {
       "keyCode": 42,
@@ -331,15 +331,15 @@
       "label": "DEL"
     },
     {
+      "keyCode": 231,
+      "label": "RIGHT CMD",
+      "verbose": "Right Cmd"
+    },
+    {
       "keyCode": 230,
       "label": "RIGHT ALT",
       "extraLabel": "",
       "verbose": "AltGr"
-    },
-    {
-      "keyCode": 231,
-      "label": "RIGHT LINUX",
-      "verbose": "Right Linux"
     },
     {
       "keyCode": 49163,
