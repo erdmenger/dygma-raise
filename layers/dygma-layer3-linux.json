@@ -152,8 +152,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 24576,
-      "label": "0",
+      "keyCode": 24578,
+      "label": "2",
       "extraLabel": "MACRO"
     },
     {
@@ -522,7 +522,7 @@
     6,
     6,
     6,
-    6
+    7
   ],
   "palette": [
     {
