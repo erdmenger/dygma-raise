@@ -2,7 +2,7 @@
   "keymap": [
     {
       "keyCode": 53,
-      "label": "`"
+      "label": "^"
     },
     {
       "keyCode": 58,
@@ -110,9 +110,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 285,
-      "label": "Z",
-      "extraLabel": "C+"
+      "keyCode": 4125,
+      "label": "Y",
+      "extraLabel": "G+"
     },
     {
       "keyCode": 0,
@@ -125,9 +125,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 281,
+      "keyCode": 4121,
       "label": "V",
-      "extraLabel": "C+"
+      "extraLabel": "G+"
     },
     {
       "keyCode": 0,
@@ -231,14 +231,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 262,
+      "keyCode": 4102,
       "label": "C",
-      "extraLabel": "C+"
+      "extraLabel": "G+"
     },
     {
-      "keyCode": 283,
+      "keyCode": 4123,
       "label": "X",
-      "extraLabel": "C+"
+      "extraLabel": "G+"
     },
     {
       "keyCode": 23786,
