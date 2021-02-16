@@ -110,8 +110,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 4125,
-      "label": "Y",
+      "keyCode": 4124,
+      "label": "Z",
       "extraLabel": "G+"
     },
     {
@@ -311,8 +311,8 @@
     },
     {
       "keyCode": 227,
-      "label": "LEFT LINUX",
-      "verbose": "Left Linux"
+      "label": "LEFT CMD",
+      "verbose": "Left Cmd"
     },
     {
       "keyCode": 226,
@@ -367,9 +367,9 @@
     },
     {
       "keyCode": 49160,
-      "label": "RIGHT LINUX",
+      "label": "RIGHT CMD",
       "extraLabel": "OSM",
-      "verbose": "Right Linux"
+      "verbose": "Right Cmd"
     },
     {
       "keyCode": 49159,
