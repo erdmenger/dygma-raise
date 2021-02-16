@@ -2,7 +2,7 @@
   "keymap": [
     {
       "keyCode": 53,
-      "label": "`"
+      "label": "^"
     },
     {
       "keyCode": 58,
@@ -110,7 +110,7 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 285,
+      "keyCode": 284,
       "label": "Z",
       "extraLabel": "C+"
     },
@@ -152,8 +152,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 24578,
-      "label": "2",
+      "keyCode": 24577,
+      "label": "1",
       "extraLabel": "MACRO"
     },
     {
